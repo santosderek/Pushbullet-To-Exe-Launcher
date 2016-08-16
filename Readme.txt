@@ -1,0 +1,1 @@
+This uses the Pushbullet API located here [https://docs.pushbullet.com/], to scan for certain messages that have been sent through Pushbullet. Once it recognizes a certain statment, it will execute the assigned *.exe located on the computer. 
